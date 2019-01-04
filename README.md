@@ -59,5 +59,6 @@
 - [HolidayLagos.com](https://www.holidaylagos.com): [Telegram](https://t.me/holidaylagos), [Twitter](https://twitter.com/HolidayLagos)
 	- Cryptocurrency & Tourism
 	- Cryptocurrency Facilities
-		- Cryptocurrency ATM & Payment Options
+		- Cryptocurrency ATM
+		- Payment Options
 	- Roadmap
