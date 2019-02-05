@@ -74,7 +74,7 @@
 	- MAX|Chop (stable coin system)
 	
 
-- [MaxDice.club](https://maxdice.club) & [MaxChop.net](https://maxchop.net)
+- [MaxDice.club](https://maxdice.club)
 	- MAX|Chop (stable coin system)
 
 - [FeteMax.tch](https://fetemax.tch)
