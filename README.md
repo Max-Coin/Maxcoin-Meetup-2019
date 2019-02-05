@@ -71,13 +71,15 @@
 	- federated barter
 
 - [MaxChop.org](https://maxchop.org)
-	- Max-Shop (shop, payment processor, federated barter)
 	- MAX|Chop (stable coin system)
-	- fete/MAX (events via nodes)
 	- .max Domains (dark TLD, DNS/VPN)
-	- Roadmap
 
-FeteMax
+- [FeteMax.org](https://fetemax.org)
+	- fete/MAX (events via nodes)
+
+- [MaxDomains.com](https://maxdomains.com)
+	- .max Domains (dark TLD, DNS/VPN)
+
 
 
 ### Saturday & Sunday
