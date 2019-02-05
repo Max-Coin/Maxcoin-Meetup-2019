@@ -70,7 +70,7 @@
 	- payment processor
 	- federated barter
 
-- [MaxChop.org](https://maxchop.org) & [MaxChop.net](https://maxchop.net)
+- [MaxChop.com](https://maxchop.com) . [MaxChop.org](https://maxchop.org) , [MaxChop.net](https://maxchop.net)
 	- MAX|Chop (stable coin system)
 	
 
