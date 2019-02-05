@@ -65,12 +65,20 @@
 
 ### Friday
 
-- [Max-Shop.co.uk](https://max-shop.co.uk)
+- [MaxShop.uk](https://maxshop.uk)
+	- Max-Shop (shop, payment processor, federated barter)
+
+	- .max Domains (dark TLD, DNS/VPN)
+	- Roadmap
+
+- [MaxChop.org](https://maxchop.org)
 	- Max-Shop (shop, payment processor, federated barter)
 	- MAX|Chop (stable coin system)
 	- fete/MAX (events via nodes)
 	- .max Domains (dark TLD, DNS/VPN)
 	- Roadmap
+
+FeteMax
 
 
 ### Saturday & Sunday
