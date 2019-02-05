@@ -70,7 +70,6 @@
 		- Payment Options
 	- Roadmap
 
-
 ### Friday
 
 - [Max-Shop.co.uk](https://max-shop.co.uk)
@@ -80,4 +79,11 @@
 	- .max Domains (dark TLD, DNS/VPN)
 	- Roadmap
 
+
+### Saturday & Sunday
+
+- Maxcoin Party 2019
+	- DJ & Kareoke Night - SImon Morris
+	- Tap Dancing Performance - Roxy Rout
+	- Didgeridoo Performance - David Serrano
 
