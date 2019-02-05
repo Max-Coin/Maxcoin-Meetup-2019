@@ -76,10 +76,10 @@
 - [MaxDice.club](https://maxdice.club)
 	- On-chain Gaming & Auditing
 
-- [FeteMax.tch](https://fetemax.tch)
+- [FeteMax.tech](https://fetemax.tech)
 	- fete/MAX (events via nodes)
 
-- [dotmax.top](https://dotmap.top)
+- [dotmax.space](https://dotmap.space)
 	- .max Domains
 	- dark TLD
 	- DNS/VPN
