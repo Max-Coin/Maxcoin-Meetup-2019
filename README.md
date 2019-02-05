@@ -72,10 +72,9 @@
 
 - [MaxChop.com](https://maxchop.com) . [MaxChop.org](https://maxchop.org) , [MaxChop.net](https://maxchop.net)
 	- MAX|Chop (stable coin system)
-	
 
 - [MaxDice.club](https://maxdice.club)
-	- MAX|Chop (stable coin system)
+	- On-chain Gaming & Auditing
 
 - [FeteMax.tch](https://fetemax.tch)
 	- fete/MAX (events via nodes)
