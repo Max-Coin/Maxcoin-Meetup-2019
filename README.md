@@ -66,10 +66,9 @@
 ### Friday
 
 - [MaxShop.uk](https://maxshop.uk)
-	- Max-Shop (shop, payment processor, federated barter)
-
-	- .max Domains (dark TLD, DNS/VPN)
-	- Roadmap
+	- shop
+	- payment processor
+	- federated barter
 
 - [MaxChop.org](https://maxchop.org)
 	- Max-Shop (shop, payment processor, federated barter)
