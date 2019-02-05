@@ -72,15 +72,14 @@
 
 - [MaxChop.org](https://maxchop.org)
 	- MAX|Chop (stable coin system)
-	- .max Domains (dark TLD, DNS/VPN)
 
 - [FeteMax.org](https://fetemax.org)
 	- fete/MAX (events via nodes)
 
 - [MaxDomains.com](https://maxdomains.com)
-	- .max Domains (dark TLD, DNS/VPN)
-
-
+	- .max Domains
+	- dark TLD
+	- DNS/VPN
 
 ### Saturday & Sunday
 
