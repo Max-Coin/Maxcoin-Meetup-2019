@@ -4,11 +4,11 @@
 
 ## Special Events:
 - Maxcoin Project Foundation - Official Signing
-	-Wednesday
+	- Wednesday
 - Oliver Morris Team Member 16th Birthday
-	-Friday
+	- Friday
 - Private Beta Launch of Statsfolio
-	-Thursday
+	- Thursday
 
 
 ## Presentations & Workshops:
