@@ -13,14 +13,19 @@
 	- Friday
 
 ## Presentations & Workshops:
-- [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
-	- Maxcoin Multisig & Smart Contracts
-	- Updates & Workshops
-		- iOS Wallet
-		- Android Wallet
-		- Maxcoin QT Wallet
-	- Roadmap
-		
+
+### Tuesday
+- [AlexandriaReview.org](http://alexandriareview.org)
+	- Basic economic theory 
+	- Basic philosophy in economics
+	- Two basic global markets
+	- The advantages of a crypto-currency on the spot market
+		- Develop a building plan for a smart contract
+		- Testing on Maxcoin, Bitcoin & Ethereum
+	- Find a simple use case 
+		- Can the Alexandria Review fulfill the needs of academia/libraries?
+
+### Wednesday
 - [AtomMiner.com](https://atomminer.com): [Telegram](https://t.me/atomminer), [Twitter](https://twitter.com/fpgaatomminer)
 	- What is Atom Miner?
 	- Mining Overview
@@ -33,6 +38,20 @@
 	- FPGA Mining demo on Rasperry pi
 	- Extra Features
 	- Roadmap
+	
+- [NewMiner.uk](https://newminer.uk): [Telegram](https://t.me/newmineruk), [Twitter](https://twitter.com/newmineruk)
+	- TBA
+
+
+- [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
+	- Maxcoin Multisig & Smart Contracts
+	- Updates & Workshops
+		- iOS Wallet
+		- Android Wallet
+		- Maxcoin QT Wallet
+	- Roadmap
+		
+
 	
 - [Statsfolio.com](https://statsfolio.com): [Telegram](https://t.me/statsfolio), [Twitter](https://twitter.com/statsfolio)
 	- What is Statsfolio?
@@ -49,17 +68,14 @@
 	- fete/MAX (events via nodes)
 	- .max Domains (dark TLD, DNS/VPN)
 	- Roadmap
-	
-- [AlexandriaReview.org](http://alexandriareview.org)
-	- Basic economic theory 
-	- Basic philosophy in economics
-	- Two basic global markets
-	- The advantages of a crypto-currency on the spot market
-		- Develop a building plan for a smart contract
-		- Testing on Maxcoin, Bitcoin & Ethereum
-	- Find a simple use case 
-		- Can the Alexandria Review fulfill the needs of academia/libraries?
-		
+
+
+
+
+
+
+
+
 - [HolidayLagos.com](https://www.holidaylagos.com): [Telegram](https://t.me/holidaylagos), [Twitter](https://twitter.com/HolidayLagos)
 	- Cryptocurrency & Tourism
 	- Cryptocurrency Facilities
