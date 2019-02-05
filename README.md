@@ -5,11 +5,12 @@
 ## Special Events:
 - Maxcoin Project Foundation - Official Signing
 	- Wednesday
-- Oliver Morris Team Member 16th Birthday
-	- Friday
+- NewMiner.uk Launch
+	- Wednesday
 - Private Beta Launch of Statsfolio
 	- Thursday
-
+- Oliver Morris Team Member 16th Birthday
+	- Friday
 
 ## Presentations & Workshops:
 - [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
