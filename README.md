@@ -50,6 +50,7 @@
 	- What is Statsfolio?
 		- Whats wrong with market cap?
 		- Cryptocurrency Ranking Factors
+	- Statsfolio Ranking System: https://github.com/statsfolio/statsfolio-ranking-system
 	- Statsfolio Featured Coins
 	- Statsfolio Featured Services
 	- Stars, Labels & Filters
