@@ -54,8 +54,6 @@
 		- Maxcoin QT Wallet
 	- Roadmap
 		
-
-	
 - [Statsfolio.com](https://statsfolio.com): [Telegram](https://t.me/statsfolio), [Twitter](https://twitter.com/statsfolio)
 	- What is Statsfolio?
 		- Whats wrong with market cap?
@@ -64,7 +62,17 @@
 	- Statsfolio Featured Services
 	- Stars, Labels & Filters
 	- Roadmap
-	
+
+- [HolidayLagos.com](https://www.holidaylagos.com): [Telegram](https://t.me/holidaylagos), [Twitter](https://twitter.com/HolidayLagos)
+	- Cryptocurrency & Tourism
+	- Cryptocurrency Facilities
+		- Cryptocurrency ATM
+		- Payment Options
+	- Roadmap
+
+
+### Friday
+
 - [Max-Shop.co.uk](https://max-shop.co.uk)
 	- Max-Shop (shop, payment processor, federated barter)
 	- MAX|Chop (stable coin system)
@@ -73,15 +81,3 @@
 	- Roadmap
 
 
-
-
-
-
-
-
-- [HolidayLagos.com](https://www.holidaylagos.com): [Telegram](https://t.me/holidaylagos), [Twitter](https://twitter.com/HolidayLagos)
-	- Cryptocurrency & Tourism
-	- Cryptocurrency Facilities
-		- Cryptocurrency ATM
-		- Payment Options
-	- Roadmap
