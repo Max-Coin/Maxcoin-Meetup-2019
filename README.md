@@ -2,17 +2,7 @@
 
 [Maxcoin](https://www.maxcoinproject.org) is having it's annual meetup and just like in 2018, it will be hosted at [HolidayLagos.com](https://www.holidaylagos.com), the Crypto & Hack-House Guest House, located in Sunny Lagos, Algarve, Portugal.
 
-## Special Events:
-- Maxcoin Project Foundation - Official Signing
-	- Wednesday
-- NewMiner.uk Launch
-	- Wednesday
-- Private Beta Launch of Statsfolio
-	- Thursday
-- Oliver Morris Team Member 16th Birthday
-	- Friday
-
-## Presentations & Workshops:
+## Events, Presentations & Workshops Schedule:
 
 ### Tuesday
 - [AlexandriaReview.org](http://alexandriareview.org)
@@ -26,6 +16,7 @@
 		- Can the Alexandria Review fulfill the needs of academia/libraries?
 
 ### Wednesday
+- Maxcoin Project Foundation - Official Signing
 - [AtomMiner.com](https://atomminer.com): [Telegram](https://t.me/atomminer), [Twitter](https://twitter.com/fpgaatomminer)
 	- What is Atom Miner?
 	- Mining Overview
@@ -55,6 +46,7 @@
 	- Roadmap
 		
 - [Statsfolio.com](https://statsfolio.com): [Telegram](https://t.me/statsfolio), [Twitter](https://twitter.com/statsfolio)
+	- Statsfolio - Pre-Alpha Launch
 	- What is Statsfolio?
 		- Whats wrong with market cap?
 		- Cryptocurrency Ranking Factors
@@ -82,7 +74,7 @@
 
 ### Saturday & Sunday
 
-- Maxcoin Party 2019
+- Maxcoin Party 2019 + Olivers 16th Birthday.
 	- DJ & Kareoke Night - SImon Morris
 	- Tap Dancing Performance - Roxy Rout
 	- Didgeridoo Performance - David Serrano
