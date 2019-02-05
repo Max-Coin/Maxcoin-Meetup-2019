@@ -80,7 +80,7 @@
 - [FeteMax.tch](https://fetemax.tch)
 	- fete/MAX (events via nodes)
 
-- [MaxDomains.com](https://maxdomains.com)
+- [dotmax.top](https://dotmap.top)
 	- .max Domains
 	- dark TLD
 	- DNS/VPN
