@@ -4,7 +4,7 @@
 
 ## Events, Presentations & Workshops Schedule:
 
-### Tuesday
+### Wednesday
 - [AlexandriaReview.org](http://alexandriareview.org)
 	- Basic economic theory 
 	- Basic philosophy in economics
@@ -15,7 +15,7 @@
 	- Find a simple use case 
 		- Can the Alexandria Review fulfill the needs of academia/libraries?
 
-### Wednesday
+### Thursday
 - Maxcoin Project Foundation - Official Signing
 - [AtomMiner.com](https://atomminer.com): [Telegram](https://t.me/atomminer), [Twitter](https://twitter.com/fpgaatomminer)
 	- What is Atom Miner?
@@ -33,7 +33,7 @@
 - [NewMiner.uk](https://newminer.uk): [Telegram](https://t.me/newmineruk), [Twitter](https://twitter.com/newmineruk)
 	- TBA
 
-### Thursday
+### Friday
 
 - [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
@@ -64,7 +64,7 @@
 		- Payment Options
 	- Roadmap
 
-### Friday
+### Saturday
 
 - [MaxShop.uk](https://maxshop.uk)
 	- shop
