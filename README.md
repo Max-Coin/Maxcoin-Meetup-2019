@@ -37,6 +37,7 @@
 
 - [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
+	- Dev Projects Summary https://github.com/Max-Coin/dev-projects-summary
 	- Maxcoin Workshop - Add to Developer Campaign https://github.com/statsfolio/maxcoin-workshop
 	- Maxcoin Multisig & Smart Contracts
 	- Updates & Workshops
