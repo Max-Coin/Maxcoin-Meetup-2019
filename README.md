@@ -18,6 +18,7 @@
 ### Thursday
 - Maxcoin Project Foundation - Official Signing
 - [AtomMiner.com](https://atomminer.com): [Telegram](https://t.me/atomminer), [Twitter](https://twitter.com/fpgaatomminer)
+	- https://www.youtube.com/watch?v=PwpqVg6wHlY
 	- What is Atom Miner?
 	- Mining Overview
 	- Differences in Mining Algorithms
