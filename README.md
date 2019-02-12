@@ -2,36 +2,6 @@
 
 [Maxcoin](https://www.maxcoinproject.org) is having it's annual meetup and just like in 2018, it will be hosted at [HolidayLagos.com](https://www.holidaylagos.com), the Crypto & Hack-House Guest House, located in Sunny Lagos, Algarve, Portugal.
 
-## Events, Presentations & Workshops Schedule:
-
-### Wednesday
-	- Basic economic theory 
-	- Basic philosophy in economics
-	- Two basic global markets
-	- The advantages of a crypto-currency on the spot market
-		- Develop a building plan for a smart contract
-		- Testing on Maxcoin, Bitcoin & Ethereum
-	- Find a simple use case 
-		- Can the Alexandria Review fulfill the needs of academia/libraries?
-
-### Thursday
-- Maxcoin Project Foundation - Official Signing
-
-	- What is Atom Miner?
-	- Mining Overview
-	- Differences in Mining Algorithms
-	- FPGA Miner Demonstration
-	- Benefits of FPGA Mining
-	- Profit Switching
-	- Firmware Switching (On the Fly) 
-	- FPGA Mining demo on laptop
-	- FPGA Mining demo on Rasperry pi
-	- Extra Features
-	- Roadmap
-	
-- [NewMiner.uk](https://newminer.uk): [Telegram](https://t.me/newmineruk), [Twitter](https://twitter.com/newmineruk)
-	- TBA
-
 
 ### Maxcoin Meetup 2019 Presentations:
 
@@ -50,6 +20,10 @@
 - [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
 ### Post Maxcoin Meetup 2019 Presentations(upcoming):
+
+- [NewMiner.uk](https://newminer.uk): [Telegram](https://t.me/newmineruk), [Twitter](https://twitter.com/newmineruk)
+	- TBA
+
 
 - [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
