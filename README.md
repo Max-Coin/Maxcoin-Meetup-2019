@@ -5,10 +5,7 @@
 ## Events, Presentations & Workshops Schedule:
 
 ### Wednesday
-- [AlexandriaReview.org](http://alexandriareview.org)
-- https://www.youtube.com/watch?v=vitjLPZv2Ys
-- https://www.youtube.com/watch?v=Nq8DKb3Ek6Y
-- https://www.youtube.com/watch?v=JOSsg3rOvNU
+- [AlexandriaReview.org](http://alexandriareview.org) Watch - [Part 1](https://www.youtube.com/watch?v=vitjLPZv2Ys), [Part 2](https://www.youtube.com/watch?v=Nq8DKb3Ek6Y), [Part 3](https://www.youtube.com/watch?v=JOSsg3rOvNU)
 	- Basic economic theory 
 	- Basic philosophy in economics
 	- Two basic global markets
