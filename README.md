@@ -70,18 +70,13 @@
 
 ### Maxcoin Meetup 2019 Presentations:
 
-- [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter
-	- [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
+- [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter - [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
 
-- [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system)
-	- [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
+- [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
 
-- [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing
-	- [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
+- [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing - [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
 
-- [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes)
-	- [Watch Presentation](https://www.youtube.com/watch?v=4njbu2QcJhg)
+- [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes) - [Watch Presentation](https://www.youtube.com/watch?v=4njbu2QcJhg)
 
-- [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN
-	- [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
+- [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
