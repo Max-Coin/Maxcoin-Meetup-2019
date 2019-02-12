@@ -5,7 +5,6 @@
 ## Events, Presentations & Workshops Schedule:
 
 ### Wednesday
-- [AlexandriaReview.org](http://alexandriareview.org) Watch - [Part 1](https://www.youtube.com/watch?v=vitjLPZv2Ys), [Part 2](https://www.youtube.com/watch?v=Nq8DKb3Ek6Y), [Part 3](https://www.youtube.com/watch?v=JOSsg3rOvNU)
 	- Basic economic theory 
 	- Basic philosophy in economics
 	- Two basic global markets
@@ -37,9 +36,11 @@
 
 ### Maxcoin Meetup 2019 Presentations:
 
+- [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
+
 - [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter - [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
 
-- [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
+- [AlexandriaReview.org](http://alexandriareview.org) - Watch - [Part 1](https://www.youtube.com/watch?v=vitjLPZv2Ys), [Part 2](https://www.youtube.com/watch?v=Nq8DKb3Ek6Y), [Part 3](https://www.youtube.com/watch?v=JOSsg3rOvNU)
 
 - [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing - [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
 
