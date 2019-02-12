@@ -71,20 +71,25 @@
 	- shop
 	- payment processor
 	- federated barter
+	- https://www.youtube.com/watch?v=994-B-SduN4
 
 - [MaxChop.com](https://maxchop.com) . [MaxChop.org](https://maxchop.org) , [MaxChop.net](https://maxchop.net)
 	- MAX|Chop (stable coin system)
+	- https://www.youtube.com/watch?v=iAfzdVrnoTc
 
 - [MaxDice.club](https://maxdice.club)
 	- On-chain Gaming & Auditing
+	- https://www.youtube.com/watch?v=dA1f7fbcuOk
 
 - [FeteMax.tech](https://fetemax.tech)
 	- fete/MAX (events via nodes)
+	- https://www.youtube.com/watch?v=4njbu2QcJhg
 
 - [dotmax.space](https://dotmap.space)
 	- .max Domains
 	- dark TLD
 	- DNS/VPN
+	- https://www.youtube.com/watch?v=fKQF7ZKsb8w
 
 ### Saturday & Sunday
 
