@@ -40,7 +40,7 @@
 
 - [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter - [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
 
-- [AlexandriaReview.org](http://alexandriareview.org) - Watch - [Part 1](https://www.youtube.com/watch?v=vitjLPZv2Ys), [Part 2](https://www.youtube.com/watch?v=Nq8DKb3Ek6Y), [Part 3](https://www.youtube.com/watch?v=JOSsg3rOvNU)
+- [AlexandriaReview.org](http://alexandriareview.org) - Smart Contract Peer Reviews - Watch - [Part 1](https://www.youtube.com/watch?v=vitjLPZv2Ys), [Part 2](https://www.youtube.com/watch?v=Nq8DKb3Ek6Y), [Part 3](https://www.youtube.com/watch?v=JOSsg3rOvNU)
 
 - [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing - [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
 
