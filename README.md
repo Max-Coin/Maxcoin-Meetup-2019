@@ -5,6 +5,8 @@
 
 ### Maxcoin Meetup 2019 Presentations:
 
+- iOS, Android & Electrum Server Dev Update: by Oliver Morris -  [Watch Presentation](https://www.youtube.com/watch?v=3_iaQ2YYXBM)
+
 - [AtomMiner.com](https://atomminer.com) - Overview, FPGA Miner, Profit Switching - [Watch Presentation](https://www.youtube.com/watch?v=PwpqVg6wHlY)
 
 - [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
