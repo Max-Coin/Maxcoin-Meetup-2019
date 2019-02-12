@@ -37,7 +37,20 @@
 - [NewMiner.uk](https://newminer.uk): [Telegram](https://t.me/newmineruk), [Twitter](https://twitter.com/newmineruk)
 	- TBA
 
-### Friday
+
+### Maxcoin Meetup 2019 Presentations:
+
+- [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter - [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
+
+- [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
+
+- [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing - [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
+
+- [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes) - [Watch Presentation](https://www.youtube.com/watch?v=4njbu2QcJhg)
+
+- [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
+
+### Post Maxcoin Meetup 2019 Presentations(upcoming):
 
 - [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
@@ -67,16 +80,4 @@
 		- Cryptocurrency ATM
 		- Payment Options
 	- Roadmap
-
-### Maxcoin Meetup 2019 Presentations:
-
-- [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter - [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
-
-- [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
-
-- [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing - [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
-
-- [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes) - [Watch Presentation](https://www.youtube.com/watch?v=4njbu2QcJhg)
-
-- [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
