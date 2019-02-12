@@ -21,12 +21,9 @@
 
 - [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
-- [NewMiner.uk](https://newminer.uk): - Coming Soon.
+- [NewMiner.uk](https://newminer.uk): - Video Coming Soon.
 
 ### Post Maxcoin Meetup 2019 Presentations(upcoming):
-
-
-
 
 - [Maxcoin Project Team](https://www.maxcoinproject.org/): [Telegram](https://t.me/maxcoinproject)
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
