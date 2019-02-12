@@ -90,10 +90,3 @@
 	- .max Domains / dark TLD / DNS/VPN
 	- https://www.youtube.com/watch?v=fKQF7ZKsb8w
 
-### Saturday & Sunday
-
-- Maxcoin Party 2019 + Olivers 16th Birthday.
-	- DJ & Kareoke Night - SImon Morris
-	- Tap Dancing Performance - Roxy Rout
-	- Didgeridoo Performance - David Serrano
-
