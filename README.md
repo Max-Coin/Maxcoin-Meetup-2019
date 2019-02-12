@@ -68,20 +68,20 @@
 		- Payment Options
 	- Roadmap
 
-### Saturday
+### Maxcoin Meetup 2019 Presentations:
 
 - [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter
-	- Maxcoin Presentation: Maxshop.uk - https://www.youtube.com/watch?v=994-B-SduN4
+	- Maxshop.uk - https://www.youtube.com/watch?v=994-B-SduN4
 
 - [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system)
-	- Maxcoin Presentation: Max|Chop https://www.youtube.com/watch?v=iAfzdVrnoTc
+	- Max|Chop https://www.youtube.com/watch?v=iAfzdVrnoTc
 
 - [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing
-	- Maxcoin Presentation: MaxDice - https://www.youtube.com/watch?v=dA1f7fbcuOk
+	- MaxDice - https://www.youtube.com/watch?v=dA1f7fbcuOk
 
 - [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes)
-	- Maxcoin Presentation: FeteMax - https://www.youtube.com/watch?v=4njbu2QcJhg
+	- FeteMax - https://www.youtube.com/watch?v=4njbu2QcJhg
 
 - [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN
-	- Maxcoin Presentation: dotmax space - https://www.youtube.com/watch?v=fKQF7ZKsb8w
+	- dotmax space - https://www.youtube.com/watch?v=fKQF7ZKsb8w
 
