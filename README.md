@@ -71,17 +71,17 @@
 ### Saturday
 
 - [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter
-	- https://www.youtube.com/watch?v=994-B-SduN4
+	- Maxcoin Presentation: Maxshop.uk - https://www.youtube.com/watch?v=994-B-SduN4
 
 - [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system)
-	- https://www.youtube.com/watch?v=iAfzdVrnoTc
+	- Maxcoin Presentation: Max|Chop https://www.youtube.com/watch?v=iAfzdVrnoTc
 
 - [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing
-	- https://www.youtube.com/watch?v=dA1f7fbcuOk
+	- Maxcoin Presentation: MaxDice - https://www.youtube.com/watch?v=dA1f7fbcuOk
 
 - [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes)
-	- https://www.youtube.com/watch?v=4njbu2QcJhg
+	- Maxcoin Presentation: FeteMax - https://www.youtube.com/watch?v=4njbu2QcJhg
 
 - [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN
-	- https://www.youtube.com/watch?v=fKQF7ZKsb8w
+	- Maxcoin Presentation: dotmax space - https://www.youtube.com/watch?v=fKQF7ZKsb8w
 
