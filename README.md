@@ -70,8 +70,7 @@
 
 ### Saturday
 
-- [MaxShop.uk](https://maxshop.uk)
-	- shop / payment processor / federated barter
+- [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter
 	- https://www.youtube.com/watch?v=994-B-SduN4
 
 - [MaxChop.com](https://maxchop.com)
