@@ -16,8 +16,7 @@
 
 ### Thursday
 - Maxcoin Project Foundation - Official Signing
-- [AtomMiner.com](https://atomminer.com): [Telegram](https://t.me/atomminer), [Twitter](https://twitter.com/fpgaatomminer)
-	- https://www.youtube.com/watch?v=PwpqVg6wHlY
+
 	- What is Atom Miner?
 	- Mining Overview
 	- Differences in Mining Algorithms
@@ -35,6 +34,8 @@
 
 
 ### Maxcoin Meetup 2019 Presentations:
+
+- [AtomMiner.com](https://atomminer.com) - Overview, FPGA Miner, Profit Switching - [Watch Presentation](https://www.youtube.com/watch?v=PwpqVg6wHlY)
 
 - [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system) - [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
 
