@@ -71,12 +71,10 @@
 ### Saturday
 
 - [MaxShop.uk](https://maxshop.uk)
-	- shop
-	- payment processor
-	- federated barter
+	- shop / payment processor / federated barter
 	- https://www.youtube.com/watch?v=994-B-SduN4
 
-- [MaxChop.com](https://maxchop.com) . [MaxChop.org](https://maxchop.org) , [MaxChop.net](https://maxchop.net)
+- [MaxChop.com](https://maxchop.com)
 	- MAX|Chop (stable coin system)
 	- https://www.youtube.com/watch?v=iAfzdVrnoTc
 
@@ -89,9 +87,7 @@
 	- https://www.youtube.com/watch?v=4njbu2QcJhg
 
 - [dotmax.space](https://dotmap.space)
-	- .max Domains
-	- dark TLD
-	- DNS/VPN
+	- .max Domains / dark TLD / DNS/VPN
 	- https://www.youtube.com/watch?v=fKQF7ZKsb8w
 
 ### Saturday & Sunday
