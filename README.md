@@ -71,17 +71,17 @@
 ### Maxcoin Meetup 2019 Presentations:
 
 - [MaxShop.uk](https://maxshop.uk) - shop / payment processor / federated barter
-	- Maxshop.uk - https://www.youtube.com/watch?v=994-B-SduN4
+	- [Watch Presentation](https://www.youtube.com/watch?v=994-B-SduN4)
 
 - [MaxChop.com](https://maxchop.com) - MAX|Chop (stable coin system)
-	- Max|Chop https://www.youtube.com/watch?v=iAfzdVrnoTc
+	- [Watch Presentation](https://www.youtube.com/watch?v=iAfzdVrnoTc)
 
 - [MaxDice.club](https://maxdice.club) - On-chain Gaming & Auditing
-	- MaxDice - https://www.youtube.com/watch?v=dA1f7fbcuOk
+	- [Watch Presentation](https://www.youtube.com/watch?v=dA1f7fbcuOk)
 
 - [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes)
-	- FeteMax - https://www.youtube.com/watch?v=4njbu2QcJhg
+	- [Watch Presentation](https://www.youtube.com/watch?v=4njbu2QcJhg)
 
 - [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN
-	- dotmax space - https://www.youtube.com/watch?v=fKQF7ZKsb8w
+	- [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
