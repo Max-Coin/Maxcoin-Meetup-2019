@@ -1,5 +1,5 @@
 ## Maxcoin Meet-up 2019 (1st to 10th February)
-The Maxcoin Meetup is hosted at [HolidayLagos.com](https://www.holidaylagos.com), located in Sunny Lagos, Algarve, Portugal.
+The Maxcoin Meetup is hosted at [HolidayLagos.com](https://www.holidaylagos.com) Guest House, located in Sunny Lagos, Algarve, Portugal.
 
 
 ### Maxcoin Meetup 2019 Presentations:
