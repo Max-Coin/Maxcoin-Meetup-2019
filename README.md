@@ -20,7 +20,7 @@ The Maxcoin Meetup is hosted at [HolidayLagos.com](https://www.holidaylagos.com)
 
 - [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
-- [NewMiner.uk](https://newminer.uk): - Video Coming Soon.
+- [NewMiner.uk](https://newminer.uk): - Cryptocurrency Mining Products - [Watch Presentation](https://www.youtube.com/watch?v=ahBCiWP0KQs)
 
 ### Upcoming Maxcoin Presentations:
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
