@@ -4,7 +4,7 @@ The Maxcoin Meetup is hosted at [HolidayLagos.com](https://www.holidaylagos.com)
 
 ### Maxcoin Meetup 2019 Presentations:
 
-- iOS, Android & Electrum Server Dev Update: by Oliver Morris -  [Watch Presentation](https://www.youtube.com/watch?v=3_iaQ2YYXBM)
+- iOS, Android & Electrum Server Dev Update: by Oliver Morris - [Watch Presentation](https://www.youtube.com/watch?v=3_iaQ2YYXBM)
 
 - [AtomMiner.com](https://atomminer.com) - Overview, FPGA Miner, Profit Switching - [Watch Presentation](https://www.youtube.com/watch?v=PwpqVg6wHlY)
 
@@ -18,9 +18,9 @@ The Maxcoin Meetup is hosted at [HolidayLagos.com](https://www.holidaylagos.com)
 
 - [FeteMax.tech](https://fetemax.tech) - fete/MAX (events via nodes) - [Watch Presentation](https://www.youtube.com/watch?v=4njbu2QcJhg)
 
-- [dotmax.space](https://dotmap.space)- .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
+- [dotmax.space](https://dotmap.space) - .max Domains / dark TLD / DNS/VPN - [Watch Presentation](https://www.youtube.com/watch?v=fKQF7ZKsb8w)
 
-- [NewMiner.uk](https://newminer.uk): - Cryptocurrency Mining Products - [Watch Presentation](https://www.youtube.com/watch?v=ahBCiWP0KQs)
+- [NewMiner.uk](https://newminer.uk) - Cryptocurrency Mining Products - [Watch Presentation](https://www.youtube.com/watch?v=ahBCiWP0KQs)
 
 ### Upcoming Maxcoin Presentations:
 	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
