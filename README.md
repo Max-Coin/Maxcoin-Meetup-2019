@@ -22,23 +22,3 @@ The Maxcoin Meetup is hosted at [HolidayLagos.com](https://www.holidaylagos.com)
 
 - [NewMiner.uk](https://newminer.uk) - Cryptocurrency Mining Products - [Watch Presentation](https://www.youtube.com/watch?v=ahBCiWP0KQs)
 
-### Upcoming Maxcoin Presentations:
-	- Why become a Maxcoin Developer Campaign https://github.com/Max-Coin/become-a-maxcoin-developer
-	- Dev Projects Summary https://github.com/Max-Coin/dev-projects-summary
-	- Maxcoin Workshop - Private Repo - https://github.com/statsfolio/maxcoin-workshop
-	- [HolidayLagos.com](https://www.holidaylagos.com): :Cryptocurrency & Tourism / Facilities(ATMs,Payments) / Roadmap 
-		
-- [Statsfolio.com](https://statsfolio.com): [Telegram](https://t.me/statsfolio), [Twitter](https://twitter.com/statsfolio)
-	- Statsfolio - Pre-Alpha Launch
-	- What is Statsfolio?
-		- Whats wrong with market cap?
-		- Cryptocurrency Ranking Factors
-	- Statsfolio Ranking System: https://github.com/statsfolio/statsfolio-ranking-system
-	- Statsfolio Featured Coins
-	- Statsfolio Featured Services
-	- Stars, Labels & Filters
-	- Roadmap
-
-
-
-
